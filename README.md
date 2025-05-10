@@ -35,7 +35,7 @@ This project is an AI-driven system designed to process and extract meaningful d
 
 **Querying**: Users can ask questions, and the system uses the indexed data to retrieve the most relevant content.
 
-**Answer Generation**: The LLaMA 2 model generates a response based on the retrieved content, ensuring the answer is contextually accurate.
+**Answer Generation**: The LLaMA 2 model(download the model from hugging face in gguf and store it folder name : model) generates a response based on the retrieved content, ensuring the answer is contextually accurate.
 
 **How to Use**
 Clone the repository:
