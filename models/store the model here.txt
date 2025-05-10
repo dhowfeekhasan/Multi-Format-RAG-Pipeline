@@ -1,1 +1,1 @@
-Download llama-2-7b.Q4_K_M.gguf from hugging face store it here 
+Download llama-2-7b.Q4_K_M.gguf from hugging face store in this folder
