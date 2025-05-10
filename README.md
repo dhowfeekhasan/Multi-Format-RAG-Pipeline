@@ -58,6 +58,7 @@ Copy
 Edit
 streamlit run app.py
 Follow the on-screen instructions to upload documents and ask queries.
+
 ![image](https://github.com/user-attachments/assets/6ec8caec-b793-4622-95de-683ae1a16ee5)
 
 
