@@ -1,0 +1,3 @@
+Introduction to Artificial Intelligence
+Artificial Intelligence (AI) is a field of computer science focused on creating systems capable of performing tasks that typically require human intelligence. These tasks include learning, reasoning, problem-solving, perception, and language understanding.
+There are several subfields in AI, including machine learning, natural language processing, computer vision, and robotics. Machine learning enables systems to improve their performance based on data without being explicitly programmed.
