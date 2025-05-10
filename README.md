@@ -1,3 +1,7 @@
+![image](https://github.com/user-attachments/assets/47191352-9130-492b-aaf4-297ccc46b7e0)
+
+
+
 **Overview**
 
 This project is an AI-driven system designed to process and extract meaningful data from various file formats, including PDFs, Word documents, PowerPoint presentations, Excel sheets, and images. By leveraging advanced Natural Language Processing (NLP) techniques, it allows users to query the content of these documents using natural language and receive context-aware responses.
@@ -54,7 +58,8 @@ Copy
 Edit
 streamlit run app.py
 Follow the on-screen instructions to upload documents and ask queries.
+![image](https://github.com/user-attachments/assets/6ec8caec-b793-4622-95de-683ae1a16ee5)
+
 
 License
 This project is licensed under the MIT License - see the LICENSE file for details.
-
