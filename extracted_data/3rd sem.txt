@@ -1,0 +1,59 @@
+
+--- Page 1 Text ---
+Office Of The Controller Of Examinations
+Examination Report-Dec 2022
+Registration Number : 210171601013
+Name : DHOWFEEK HASAN. S
+Month And Year Of Examination : Dec 2022
+Degree, Branch & Semester : B.Tech.-Artificial Intelligence and Data Science-III
+S. Course Code Course Title Credits Letter Grade Result
+NO
+1 CSD 2151 Foundations of Data Structures 3 C PASS
+2 CSD 2152 Programming in Python Language 3 A PASS
+3 CSD 2153 Principles of Software Engineering 3 D PASS
+4 CSD 2154 Database Management and SQL 3 B PASS
+5 CSD 2155 Foundations of Data Structures Laboratory 1 C PASS
+6 CSD 2156 Database Management and SQL Laboratory 1 C PASS
+7 CSD 2157 Python Programming Laboratory 1 B PASS
+8 GED 2101 Essential Skills and Aptitude for Engineers 1 B PASS
+9 MAD 2181 Statistical Methods for Data Analysis 4 B PASS
+10 SSDX 04 Dynamics of Indian Social Structure 3 B PASS
+GPA : 7.65
+Grade Details
+S.No. LetterGrade GradePoint
+1 S 10.00
+2 A 9.00
+3 B 8.00
+4 C 7.00
+5 D 6.00
+6 E 5.00
+7 U 0.00
+8 U 0.00
+I:Inadequate Attendance W:Withdrawl
+Controller Of Examination
+Phone:044-22751347 Extn:117 Mail ID:coe@crescent.education
+
+--- Page 1, Table 1 ---
+S.
+NO | Course Code | Course Title | Credits | Letter Grade | Result
+1 | CSD 2151 | Foundations of Data Structures | 3 | C | PASS
+2 | CSD 2152 | Programming in Python Language | 3 | A | PASS
+3 | CSD 2153 | Principles of Software Engineering | 3 | D | PASS
+4 | CSD 2154 | Database Management and SQL | 3 | B | PASS
+5 | CSD 2155 | Foundations of Data Structures Laboratory | 1 | C | PASS
+6 | CSD 2156 | Database Management and SQL Laboratory | 1 | C | PASS
+7 | CSD 2157 | Python Programming Laboratory | 1 | B | PASS
+8 | GED 2101 | Essential Skills and Aptitude for Engineers | 1 | B | PASS
+9 | MAD 2181 | Statistical Methods for Data Analysis | 4 | B | PASS
+10 | SSDX 04 | Dynamics of Indian Social Structure | 3 | B | PASS
+
+--- Page 1, Table 2 ---
+S.No. | LetterGrade | GradePoint
+1 | S | 10.00
+2 | A | 9.00
+3 | B | 8.00
+4 | C | 7.00
+5 | D | 6.00
+6 | E | 5.00
+7 | U | 0.00
+8 | U | 0.00
