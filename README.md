@@ -52,7 +52,7 @@ pip install -r requirements.txt
 bash
 Copy
 Edit
-stream app.py
+streamlit run app.py
 Follow the on-screen instructions to upload documents and ask queries.
 
 License
