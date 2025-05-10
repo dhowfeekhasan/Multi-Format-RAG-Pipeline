@@ -1,0 +1,17 @@
+Owner Country =—ss Flle_Date (PC_Class
+
+Company A us 6/18/2008 HO5H13
+Company A EP 1/30/1998 AG1N5
+CompanyA EP 1/30/1998 AG1N5
+CompanyA EP 1/30/1998 AG1N5
+CompanyA JP 8/28/1997 AG1N5
+CompanyA JP 10/4/2002 AG1N5
+CompanyA JP 1/27/2003 AG1N5
+CompanyA JP 4/14/2003 AG1N5
+CompanyA JP 5/13/2011 AG1N5
+CompanyB = JP 4/2/1998 612813
+CompanyB = JP 4/2/1998 612813
+Company B JP 5/28/1997 AG1N5
+Company B JP 11/12/1997 AG1N5
+CompanyB = JP 2/29/2000 AG1N5
+CompanyB JP 4/30/2002 ‘A61N5
